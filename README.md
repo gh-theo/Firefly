@@ -2,7 +2,7 @@
 
 # 飞为(Firefly)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/firefly) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/firefly) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 飞为(Firefly) 采用 IPLC 线路和 VLESS 协议提供机场订阅，常见叫法包括“Firefly VPN”“飞为梯子”和“飞为机场”。订阅中的代理节点覆盖多种使用场景，并有月度与一次性流量方案；想判断性价比，可先区分每月重置的流量需求与低频备用需求，再结合下方测速和解锁截图核对。
 
