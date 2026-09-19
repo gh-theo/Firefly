@@ -1,57 +1,105 @@
-# Firefly VPN官网注册地址｜真实测速｜价格与套餐详解
+<a id="firefly-vpn-review"></a>
 
-## Firefly VPN官网注册地址（当前可用｜稳定高速｜真实测速）
+# 飞为(Firefly)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-**最便宜的订阅为年付版 ¥8/月，60GB/月。**
+[完整详情与最新套餐](https://eoht.net/serve/airport/firefly) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
 
-**点击购买👉👉👉** [Firefly机场官网](https://eoht.net/serve/airport/firefly)
+飞为(Firefly) 采用 IPLC 线路和 VLESS 协议提供机场订阅，常见叫法包括“Firefly VPN”“飞为梯子”和“飞为机场”。订阅中的代理节点覆盖多种使用场景，并有月度与一次性流量方案；想判断性价比，可先区分每月重置的流量需求与低频备用需求，再结合下方测速和解锁截图核对。
 
-**当前可用的官方注册地址，稳定不跳转、不失效。**
+> [!NOTE]
+> **30 秒看懂飞为(Firefly)**
+>
+> - **最低门槛**：60GB/月年付版 ¥96；低频使用还可比较 100GB、¥100 的一次性不限时套餐。
+> - **核心特点**：主打 IPLC 专线、VLESS 协议与原生 IP，并提供月度和一次性流量方案。
+> - **优惠与场景**：页面列有新用户 8 折码，并展示流媒体与 AI 服务支持。
+>
+> [查看套餐与优惠](#firefly-vpn-plans) · [查看测速与解锁](#firefly-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+>
 
-## Firefly VPN是什么？适合哪些人使用（真实体验 + 优缺点）
+<a id="firefly-official-website"></a>
 
-**Firefly** 技术和运营团有8年行内经验，致力于提供稳定、高质量的网络连接体验，采用 IPLC 专线与 VLESS 协议，具备低延迟和高稳定性的特点。全节点不限速、不限制客户端及设备数量，适合日常使用、影音娱乐、AI 工具和办公等场景。
+## 飞为(Firefly)VPN官网与优惠注册入口
 
-海外技术团队持续维护线路，并提供响应迅速的客服支持与经验丰富的运营保障。节点提供原生 IP，支持 **YouTube、Netflix、Disney+、HBO** 等主流流媒体解锁，同时兼容 **ChatGPT、Gemini、Meta AI** 等 AI 服务；也提供企业定制方案。
+**最低门槛为 60GB/月年付版，年付 ¥96。**
 
-- IPLC 专线，稳定低延迟；
-- VLESS 协议，全节点不限速；
-- 不限制客户端和设备数量；
+[立即购买飞为套餐](https://eoht.net/serve/airport/firefly)
+
+**本页汇总飞为(Firefly)机场推广注册入口、套餐价格、优惠码、IPLC/VLESS 线路及测速记录；购买前请以结算页信息为准。**
+
+<a id="firefly-airport-overview"></a>
+
+## 飞为(Firefly)VPN怎么样？IPLC、VLESS、流媒体与 AI 支持
+
+**飞为(Firefly)** 的公开介绍称其技术与运营团队有 8 年行业经验，采用 IPLC 专线与 VLESS 协议。按页面公开说明，全节点不限速。
+
+据机场介绍，节点提供原生 IP，支持 **YouTube、Netflix、Disney+、HBO** 等流媒体，同时兼容 **ChatGPT、Gemini、Meta AI** 等 AI 服务，并提供企业定制方案。实际节点状态可结合本页截图与自己的使用时段核对。
+
+- 主打 IPLC 专线与 VLESS 协议；
+- 公开说明列有全节点不限速；
 - 支持主流流媒体与 AI 工具；
-- 原生 IP、企业定制和免翻墙访问；
-- 响应迅速的客服支持与经验丰富的运营团队。
+- 提供原生 IP、客服支持与企业定制方案。
 
-## Firefly VPN价格与套餐对比（性价比分析｜新手怎么选）
+<a id="firefly-vpn-plans"></a>
 
-**支付方式** 支付宝USDT
+## 飞为(Firefly)VPN套餐价格、优惠与选择建议
+
+**支付方式** 支付宝 / USDT
+
+> [!TIP]
 >
-> - **新用户 8 折优惠码** firefly
+> - **新用户 8 折优惠码**：`firefly`
+> - 季付**9**折/年付**8**折，配合折扣码后的实时价格以结算页为准
+> - **新手建议**：轻度使用选**年付版**，日常流媒体与 AI 工具推荐**Plus / Blaze**。
 >
 
-- 季付**9**折/半年**85**折/年付**8**折 配合折扣码折上折，最高可达**64**折
-- **新手建议**：轻度使用选**年付版**，日常流媒体与 AI 工具推荐**Plus / Blaze**。
+|  套餐类型  |  流量/月   | 月付 | 季付 | 年付  |                                                     套餐购买                                                     |
+|:----------:|:----------:|:----:|:----:|:-----:|:----------------------------------------------------------------------------------------------------------------:|
+| **年付版** |  **60GB**  |  -   |  -   |  ¥96  | [立即购买](https://eoht.net/serve/airport/firefly) |
+|  **Lite**  | **150GB**  | ¥25  | ¥67  | ¥240  | [立即购买](https://eoht.net/serve/airport/firefly) |
+|  **Plus**  | **300GB**  | ¥45  | ¥121 | ¥432  | [立即购买](https://eoht.net/serve/airport/firefly) |
+| **Blaze**  | **600GB**  | ¥85  | ¥229 | ¥816  | [立即购买](https://eoht.net/serve/airport/firefly) |
+|  **Nova**  | **1000GB** | ¥150 | ¥400 | ¥1360 | [立即购买](https://eoht.net/serve/airport/firefly) |
 
-|  套餐类型  |  流量/月   | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                     套餐购买                                                     |
-|:----------:|:----------:|:----:|:----:|:------:|:-----:|:--------:|:----------------------------------------------------------------------------------------------------------------:|
-| **年付版** |  **60GB**  |  -   |  -   |   -    |  ¥96  |  无限制  | [立即购买](https://eoht.net/serve/airport/firefly) |
-|  **Lite**  | **150GB**  | ¥25  | ¥67  |  ¥127  | ¥240  |  无限制  | [立即购买](https://eoht.net/serve/airport/firefly) |
-|  **Plus**  | **300GB**  | ¥45  | ¥121 |  ¥229  | ¥432  |  无限制  | [立即购买](https://eoht.net/serve/airport/firefly) |
-| **Blaze**  | **600GB**  | ¥85  | ¥229 |  ¥433  | ¥816  |  无限制  | [立即购买](https://eoht.net/serve/airport/firefly) |
-|  **Nova**  | **1000GB** | ¥150 | ¥400 |  ¥750  | ¥1360 |  无限制  | [立即购买](https://eoht.net/serve/airport/firefly) |
+| 一次性套餐 |   流量    | 价格 |                                                     套餐购买                                                     |
+|:----------:|:---------:|:----:|:----------------------------------------------------------------------------------------------------------------:|
+| **不限时** | **100GB** | ¥100 | [立即购买](https://eoht.net/serve/airport/firefly) |
 
-| 一次性套餐 |   流量    | 价格 | 设备限制 |                                                     套餐购买                                                     |
-|:----------:|:---------:|:----:|:--------:|:----------------------------------------------------------------------------------------------------------------:|
-| **不限时** | **100GB** | ¥100 |  无限制  | [立即购买](https://eoht.net/serve/airport/firefly) |
+<a id="firefly-speed-test"></a>
 
-## Firefly VPN真实测速图（高峰期表现实测）
+## 飞为(Firefly)VPN的 IPLC、流媒体与 AI 测试记录
 
-完整测速图、流媒体与 AI 解锁结果请查看：[完整评测](https://eoht.net/serve/airport/firefly)
+![飞为(Firefly)节点测速图](https://i.eoht.net/airport/firefly_speed.webp)
 
-- [🔥🔥🔥2026年便宜好用的翻墙VPN机场推荐评测(长期更新 欢迎推荐)](https://eoht.net/serve/airport/summary)
-- [翻墙科学上网客户端使用教程汇总](https://eoht.net/serve/antiwall/summary)
-- [稳定好用的流媒体合租平台推荐(长期更新 欢迎推荐)](https://eoht.net/serve/sharing/account-sharing-guide)
-- [AI 使用教程汇总｜ChatGPT、Gemini 新手入门与国内使用指南](https://eoht.net/ai/summary)
-- [国外接码平台 Hero SMS 评测（稳定 · 低价 · 高成功率）](https://eoht.net/serve/code/sms)
+![飞为(Firefly)流媒体解锁图](https://i.eoht.net/airport/firefly_stream.webp)
 
-> **免责声明**
-本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
+![飞为(Firefly)AI 解锁图](https://i.eoht.net/airport/fireflyai_ai.webp)
+
+<a id="firefly-related-guides"></a>
+
+## 飞为(Firefly)VPN常见问题与继续比较
+
+<a id="firefly-one-time-vs-monthly-plans"></a>
+
+### 飞为(Firefly)VPN一次性不限时套餐和月度套餐怎么选？
+
+不限时套餐是 ¥100 购买 100GB 总流量，适合低频使用或备用；月度套餐则按每月需求选择 60GB 至 1000GB。不限时套餐的有效期与其他规则应在结算页再确认。
+
+<a id="firefly-streaming-ai-support"></a>
+
+### 飞为(Firefly)VPN支持哪些流媒体与 AI 服务？
+
+页面列出的支持范围包括 YouTube、Netflix、Disney+、HBO、ChatGPT、Gemini 与 Meta AI。购买后可按页面标注选择对应节点，并从[客户端教程汇总](https://eoht.net/serve/antiwall/summary)核对导入方式。
+
+还可比较同样主打 IPLC 与 VLESS 的[无忧链接](https://eoht.net/serve/airport/wuyou)，或查看[一次性流量包机场对比](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)、[流媒体指南](https://eoht.net/streaming/summary)、[AI 使用指南](https://eoht.net/ai/summary)与[三天测试指南](https://eoht.net/serve/routes/choose-guide)。
+
+[立即购买飞为套餐](https://eoht.net/serve/airport/firefly)
+
+---
+
+- [机场套餐与评测汇总](https://eoht.net/serve/airport/summary)
+- [科学上网客户端使用教程](https://eoht.net/serve/antiwall/summary)
+- [账号合租与数字账号指南](https://eoht.net/serve/sharing/account-sharing-guide)
+- [AI 工具使用指南](https://eoht.net/ai/summary)
+- [Hero SMS 国外接码平台](https://eoht.net/serve/code/sms)
+
+> 本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
