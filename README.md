@@ -11,7 +11,7 @@
 >
 > - **最低门槛**：60GB/月年付版 ¥96；低频使用还可比较 100GB、¥100 的一次性不限时套餐。
 > - **核心特点**：主打 IPLC 专线、VLESS 协议与原生 IP，并提供月度和一次性流量方案。
-> - **优惠与场景**：页面列有新用户 8 折码，并展示流媒体与 AI 服务支持。
+> - **优惠与场景**：新用户可用 8 折码，¥96 年付版不参与；页面展示流媒体与 AI 服务支持。
 >
 > [查看套餐与优惠](#firefly-vpn-plans) · [查看测速与解锁](#firefly-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
@@ -48,6 +48,7 @@
 > [!TIP]
 >
 > - **新用户 8 折优惠码**：`firefly`
+> - **适用条件**：仅限新用户，**¥96 年付版不参与**。
 > - 季付**9**折/年付**8**折，配合折扣码后的实时价格以结算页为准
 > - **新手建议**：轻度使用选**年付版**，日常流媒体与 AI 工具推荐**Plus / Blaze**。
 >
@@ -101,5 +102,7 @@
 - [账号合租与数字账号指南](https://eoht.net/serve/sharing/account-sharing-guide)
 - [AI 工具使用指南](https://eoht.net/ai/summary)
 - [Hero SMS 国外接码平台](https://eoht.net/serve/code/sms)
+
+[机场优惠码汇总](https://github.com/jcsift/airport-summary/blob/main/coupons.md) · [机场卡片汇总](https://github.com/jcsift/airport-summary/blob/main/cards.md)
 
 > 本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
